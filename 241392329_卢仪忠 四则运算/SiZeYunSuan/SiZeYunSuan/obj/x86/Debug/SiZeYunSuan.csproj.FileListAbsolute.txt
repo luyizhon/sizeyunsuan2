@@ -1,0 +1,5 @@
+E:\c#\SiZeYunSuan\SiZeYunSuan\bin\Debug\SiZeYunSuan.exe
+E:\c#\SiZeYunSuan\SiZeYunSuan\bin\Debug\SiZeYunSuan.pdb
+E:\c#\SiZeYunSuan\SiZeYunSuan\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\c#\SiZeYunSuan\SiZeYunSuan\obj\x86\Debug\SiZeYunSuan.exe
+E:\c#\SiZeYunSuan\SiZeYunSuan\obj\x86\Debug\SiZeYunSuan.pdb
